@@ -64,7 +64,7 @@ img{
 }
 .header-bg-image{
     padding: 270px 20px;
-    background-image: url(./image-assets/hero.jpg);
+    background-image: url("./image-assets/hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:  center center;
